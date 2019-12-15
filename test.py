@@ -1,1 +1,4 @@
-ver
+import os
+
+print('hello world')
+
