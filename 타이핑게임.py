@@ -2,7 +2,7 @@
 
 import time
 import random
-
+import os
 
 
 
@@ -48,8 +48,6 @@ for q in word_list:
     speed = (correct / end_time) * 60
 
     print('속도:{:0.2f} 정확도:{:0.2f} 오타율:{:0.2f}'.format(speed, c, e))
-
-    .
 
 
 

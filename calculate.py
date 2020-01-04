@@ -12,6 +12,9 @@ for i, s in enumerate(user_input):
             string_list.append(user_input[lop:i])
             string_list.append(s)
             lop = i+1
+
+
 print(string_list)
+
 
 
